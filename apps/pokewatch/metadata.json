@@ -7,9 +7,6 @@
   "type": "app",
   "supports": ["BANGLEJS2"],
   "storage": [
-    {
-      "name": "mybasicapp.app.js",
-      "url": "app.js"
-    }
+    { "name": "mybasicapp.app.js", "url": "app.js" }
   ]
 }
