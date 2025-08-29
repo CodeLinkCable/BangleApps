@@ -1,12 +1,12 @@
 {
-  "id": "mybasicapp",
-  "name": "My Basic App",
-  "shortName": "Basic",
+  "id": "pokewatch",
+  "name": "Pokewatch",
+  "shortName": "PWatch",
   "version": "0.01",
-  "description": "A very basic test app",
+  "description": "Catch Pokemon",
   "type": "app",
   "supports": ["BANGLEJS2"],
   "storage": [
-    { "name": "mybasicapp.app.js", "url": "app.js" }
+    { "name": "pokewatch.app.js", "url": "app.js" }
   ]
 }
